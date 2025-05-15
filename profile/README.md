@@ -1,5 +1,5 @@
-This organization compiles and hosts tutorials and guides for [learn.astropy.org](https://learn.astropy.org/), as well as maintains the website. 
+This organization hosts the infrastructure for compiling and hosting tutorials and guides for [learn.astropy.org](https://learn.astropy.org/) and maintaining the website. For a guide on this infrastructure, see [here](https://learn.astropy.org/contributing/infrastructure).
 
-For a guide on contributing a new tutorial or guide, see [the Learn site](https://learn.astropy.org/contributing/).
+For a guide on contributing a new tutorial or guide, see [here](https://learn.astropy.org/contributing/).
 
-Please open issues for a specific tutorial or guide in its respective repo, or open a general/organization-wide issue [here](https://github.com/astropy-learn/astropy-tutorials/issues/new) in the astropy-tutorials repo. 
+Open an issue for a specific tutorial or guide in its respective repo, or open a general issue [here](https://github.com/astropy-learn/astropy-tutorials/issues/new) in the _astropy-tutorials_ repo. 
